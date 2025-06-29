@@ -33,6 +33,7 @@ This project builds a machine learning model to identify **freemium users** who 
 |------|-------------|
 | `conversion_model.Rmd` | R code for model development (cleaned version) |
 | `Premium_Conversion_Slides.pdf` | Project summary slides |
+| `XYZData.csv` | Used dataset |
 
 ---
 
