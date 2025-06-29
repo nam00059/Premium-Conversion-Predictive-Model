@@ -1,4 +1,4 @@
-# 🔄 Freemium to Premium Conversion Prediction
+# Freemium to Premium Conversion Prediction
 
 This project builds a machine learning model to identify **freemium users** who are most likely to convert to **premium subscribers** in the next marketing campaign. The goal is to optimize marketing spend by targeting users with the highest probability of adoption, based on behavioral and demographic data.
 
